@@ -117,7 +117,7 @@
    <td align="center" width="33%">
       <a href="YOUR_IDEAHUB_LINK_HERE">
         <img
-          src="https://capsule-render..vercelapp/api?type=rect&color=gradient&height=140&text=KrishiNetra%20(PWA)&fontSize=26&fontColor=ffffff"
+          src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&text=KrishiNetra%20(PWA)&fontSize=26&fontColor=ffffff"
         />
       </a>
       <br/>
