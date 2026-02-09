@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Kalpesh Navnath Bire</h1>
 <h3 align="center">MERN Stack Developer • MVP Builder • Hackathon Finalist</h3>
 
@@ -88,4 +93,7 @@
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=KalpeshBire&color=6"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=footer"/>
 </p>
