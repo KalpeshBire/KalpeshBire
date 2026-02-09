@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kalpesh Navnath Bire</h1>
-<h3 align="center">MERN Stack Developer • MVP Builder • Hackathon Finalist</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Kalpesh+Navnath+Bire;MERN+Stack+Developer;MVP+Builder;Hackathon+Finalist"/>
@@ -94,6 +94,50 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=KalpeshBire&color=6"/>
 </p>
+
+
+
+
+<table align="center">
+  <tr>
+
+    
+<td align="center" width="33%">
+      <a href="YOUR_IDEAHUB_LINK_HERE">
+        <img
+          src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&text=IdeaHub%20(PWA)&fontSize=26&fontColor=ffffff"
+        />
+      </a>
+      <br/>
+      <b>IdeaHub – Smart Laboratory Management</b><br/>
+      <b>🧪 PWA • Role-Based Access • Cloud-Ready</b><br/>
+      <a href="https://ideahub-app.onrender.com"><b>🔗 Click here to see project</b></a>
+    </td>
+
+   <td align="center" width="33%">
+      <a href="YOUR_IDEAHUB_LINK_HERE">
+        <img
+          src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&text=KrishiNetra%20(PWA)&fontSize=26&fontColor=ffffff"
+        />
+      </a>
+      <br/>
+      <b> KrishiNetra – Agriculture Support Platform </b><br/>
+      <b>>🌾 MERN • Monitoring • Scalable APIs </b><br/>
+      <a href="https://agri-tech-winners.onrender.com"><b>🔗 Click here to see project</b></a>
+    </td>
+
+   
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=footer"/>
 </p>
