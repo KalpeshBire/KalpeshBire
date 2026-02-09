@@ -13,47 +13,40 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Building **scalable MERN & PWA products**
-- ⚙️ **MVP-first**, execution-driven developer
-- 👯 Open to **startups, hackathons & fast teams**
-- 🧠 Focused on **performance & production readiness**
-- 🌱 Learning **backend architecture, cloud & DevOps**
-- ⚡ **National Hackathon Finalist**
+- 🔭 Building and shipping **scalable MERN & PWA products**
+- ⚙️ **MVP-first**, execution-driven developer (real users > demos)
+- 👯 Open to collaborating on **startups, hackathons & fast-moving teams**
+- 🧠 Focused on **performance, scalability & production readiness**
+- 🌱 Currently learning **backend architecture, cloud & DevOps**
+- ⚡ **National Hackathon Finalist** — thrive under pressure, deliver under deadlines
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=white"/>
-</p>
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=white)
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap"/>
-</p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
 
-<p align="center"><b>Backend & Database</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql"/>
-</p>
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 
-<p align="center"><b>Tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git"/>
-  <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render"/>
-</p>
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render)
 
 ---
 
@@ -74,9 +67,12 @@
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KalpeshBire/output/github-contribution-grid-snake.svg" />
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KalpeshBire/KalpeshBire/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KalpeshBire/KalpeshBire/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/KalpeshBire/KalpeshBire/output/github-snake.svg" />
+</picture>
 
 ---
 
