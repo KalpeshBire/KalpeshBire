@@ -115,7 +115,7 @@
       <br/>
       <b>IdeaHub – Smart Laboratory Management</b><br/>
       <b>🧪 PWA • Role-Based Access • Cloud-Ready</b><br/>
-      <a href="://ideahub-app.onrender.com"><b>🔗 Click here to see project</b></a>
+      <a href="https://ideahub-app.onrender.com"><b>🔗 Click here to see project</b></a>
     </td>
 
    <td align="center" width="33%">
@@ -127,7 +127,7 @@
       <br/>
       <b> KrishiNetra – Agriculture Support Platform </b><br/>
       <b>>🌾 MERN • Monitoring • Scalable APIs </b><br/>
-      <a href="://agri-tech-winners.onrender.com"><b>🔗 Click here to see project</b></a>
+      <a href=":https//agri-tech-winners.onrender.com"><b>🔗 Click here to see project</b></a>
     </td>
 
    
