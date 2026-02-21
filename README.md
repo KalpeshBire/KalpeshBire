@@ -29,7 +29,7 @@
 - 👯 Open to **startups, hackathons & fast-moving teams**
 - 🧠 Focused on **performance, scalability & production readiness**
 - 🌱 Learning **backend architecture, cloud & DevOps**
-- ⚡ **National Hackathon Finalist** — thrive under pressure
+- ⚡ **SIH 2025 Finalist** — thrive under pressure
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50"/>
 
