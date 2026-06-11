@@ -1,27 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kalpesh%20Bire&fontSize=45&fontAlignY=35&theme=tokyonight&animation=twinkling" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Kalpesh Navnath Bire</h1>
-<h3 align="center">MERN Stack Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Kalpesh+Navnath+Bire;MERN+Stack+Developer;MVP+Builder;Hackathon+Finalist"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;MVP+Builder;Hackathon+Finalist;Full-Stack+Engineer;"/>
 </p>
 
 <p align="center">
   <a href="mailto:kalpeshbire2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/kalpesh-bire-3b5833316">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
+<br/>
 
 ## 🚀 About Me
 - 🔭 Building and shipping **scalable MERN & PWA products**
@@ -35,46 +29,24 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cpp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,vite,tailwind,bootstrap,html,css,nodejs,mongodb,mysql,git,npm,vercel&perline=8" />
+  </a>
+</p>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-
-### 🧠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render)
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50"/>
+<br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalpeshBire&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KalpeshBire&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&v=1" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://streak-stats.demolab.com?user=KalpeshBire&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KalpeshBire&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshBire&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshBire&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" />
 </p>
 
 
@@ -99,48 +71,89 @@
 </p>
 
 
- ## 🚀 Current Projects ...
+ ## 🚀 Current Projects
 
+<p align="center">
+  <a href="https://ideahub-app.onrender.com" target="_blank">
+    <svg width="360" height="160" viewBox="0 0 360 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <!-- Card Background -->
+      <rect width="360" height="160" rx="12" fill="#0f172a" />
+      <!-- Glowing Border -->
+      <rect x="1" y="1" width="358" height="158" rx="11" stroke="url(#paint0_linear)" stroke-width="1.5"/>
+      
+      <!-- Icon Accent Circle -->
+      <circle cx="45" cy="45" r="20" fill="url(#paint0_linear)" fill-opacity="0.15" />
+      <!-- Flask Icon -->
+      <path d="M41 35V39M49 35V39M38 39H52M39 49C37.5 52 41 55 45 55C49 55 52.5 52 51 49L46 41H44L39 49Z" stroke="url(#paint0_linear)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 
-<table align="center">
-  <tr>
+      <!-- Text Header -->
+      <text x="80" y="42" fill="#ffffff" font-family="'Segoe UI', Helvetica, sans-serif" font-weight="bold" font-size="20">IdeaHub</text>
+      <text x="80" y="60" fill="#94a3b8" font-family="'Segoe UI', Helvetica, sans-serif" font-size="12">Smart Laboratory Management</text>
+      
+      <!-- Description -->
+      <text x="25" y="100" fill="#cbd5e1" font-family="'Segoe UI', Helvetica, sans-serif" font-size="13">🧪 PWA • Role-Based Access • Cloud-Ready</text>
+      
+      <!-- Tech Badges -->
+      <rect x="25" y="120" width="55" height="20" rx="4" fill="#1e293b" />
+      <text x="52.5" y="134" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="10" text-anchor="middle">React</text>
+      
+      <rect x="85" y="120" width="55" height="20" rx="4" fill="#1e293b" />
+      <text x="112.5" y="134" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="10" text-anchor="middle">Node</text>
 
-    
-<td align="center" width="33%">
-      <a href="YOUR_IDEAHUB_LINK_HERE">
-        <img
-          src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&text=IdeaHub%20(PWA)&fontSize=26&fontColor=ffffff"
-        />
-      </a>
-      <br/>
-      <b>IdeaHub – Smart Laboratory Management</b><br/>
-      <b>🧪 PWA • Role-Based Access • Cloud-Ready</b><br/>
-      <a href="https://ideahub-app.onrender.com"><b>🔗 Click here to see project</b></a>
-    </td>
+      <rect x="145" y="120" width="70" height="20" rx="4" fill="#1e293b" />
+      <text x="180" y="134" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="10" text-anchor="middle">MongoDB</text>
+      
+      <!-- Gradients -->
+      <defs>
+        <linearGradient id="paint0_linear" x1="0" y1="0" x2="360" y2="160" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#38bdf8"/>
+          <stop offset="1" stop-color="#818cf8"/>
+        </linearGradient>
+      </defs>
+    </svg>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://agri-tech-winners.onrender.com" target="_blank">
+    <svg width="360" height="160" viewBox="0 0 360 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <!-- Card Background -->
+      <rect width="360" height="160" rx="12" fill="#0f172a" />
+      <!-- Glowing Border -->
+      <rect x="1" y="1" width="358" height="158" rx="11" stroke="url(#paint1_linear)" stroke-width="1.5"/>
+      
+      <!-- Icon Accent Circle -->
+      <circle cx="45" cy="45" r="20" fill="url(#paint1_linear)" fill-opacity="0.15" />
+      <!-- Leaf Icon -->
+      <path d="M45 53V37M45 42C48 39 52 39 52 42C52 45 48 48 45 48M45 45C42 42 38 42 38 45C38 48 42 51 45 51" stroke="url(#paint1_linear)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 
-   <td align="center" width="33%">
-      <a href="YOUR_IDEAHUB_LINK_HERE">
-        <img
-          src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=140&text=KrishiNetra%20(PWA)&fontSize=26&fontColor=ffffff"
-        />
-      </a>
-      <br/>
-      <b> KrishiNetra – Agriculture Support Platform </b><br/>
-      <b>>🌾 MERN • Monitoring • Scalable APIs </b><br/>
-      <a href=":https//agri-tech-winners.onrender.com"><b>🔗 Click here to see project</b></a>
-    </td>
+      <!-- Text Header -->
+      <text x="80" y="42" fill="#ffffff" font-family="'Segoe UI', Helvetica, sans-serif" font-weight="bold" font-size="20">KrishiNetra</text>
+      <text x="80" y="60" fill="#94a3b8" font-family="'Segoe UI', Helvetica, sans-serif" font-size="12">Agriculture Support Platform</text>
+      
+      <!-- Description -->
+      <text x="25" y="100" fill="#cbd5e1" font-family="'Segoe UI', Helvetica, sans-serif" font-size="13">🌾 MERN • Monitoring • Scalable APIs</text>
+      
+      <!-- Tech Badges -->
+      <rect x="25" y="120" width="55" height="20" rx="4" fill="#1e293b" />
+      <text x="52.5" y="134" fill="#34d399" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="10" text-anchor="middle">MERN</text>
+      
+      <rect x="85" y="120" width="55" height="20" rx="4" fill="#1e293b" />
+      <text x="112.5" y="134" fill="#34d399" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="10" text-anchor="middle">PWA</text>
 
-   
-  </tr>
-</table>
+      <rect x="145" y="120" width="70" height="20" rx="4" fill="#1e293b" />
+      <text x="180" y="134" fill="#34d399" font-family="'Segoe UI', sans-serif" font-weight="600" font-size="10" text-anchor="middle">REST API</text>
+      
+      <!-- Gradients -->
+      <defs>
+        <linearGradient id="paint1_linear" x1="0" y1="0" x2="360" y2="160" gradientUnits="userSpaceOnUse">
+          <stop stop-color="#34d399"/>
+          <stop offset="1" stop-color="#059669"/>
+        </linearGradient>
+      </defs>
+    </svg>
+  </a>
+</p>
 
-
-
-
-
-
-
-
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=footer"/>
