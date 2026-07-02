@@ -28,15 +28,40 @@
 - 🌱 Learning **backend architecture, cloud & DevOps**
 - ⚡ **SIH 2025 Finalist** — thrive under pressure
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KalpeshBire&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Github Trophies" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50"/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,vite,tailwind,bootstrap,html,css,nodejs,mongodb,mysql,git,npm,vercel&perline=8" />
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="200" valign="top">
+        <strong>🌐 Frontend</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&perline=3" />
+      </td>
+      <td align="center" width="200" valign="top">
+        <strong>⚙️ Backend & DB</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&perline=3" />
+      </td>
+      <td align="center" width="200" valign="top">
+        <strong>💻 Languages</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,py,js&perline=3" />
+      </td>
+      <td align="center" width="200" valign="top">
+        <strong>🛠️ Tools & DevOps</strong>
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,npm,vercel&perline=3" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -50,6 +75,10 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshBire&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KalpeshBire&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Activity Graph" />
 </p>
 
 
