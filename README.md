@@ -29,7 +29,13 @@
 - ⚡ **SIH 2025 Finalist** — thrive under pressure
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KalpeshBire&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Github Trophies" />
+  <img src="https://img.shields.io/badge/SIH%202025-Finalist-gold?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-36BCF7?style=for-the-badge&logo=mongodb&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MVP%20Builder-Active-2ea043?style=for-the-badge&logo=vercel&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full%20Stack-Engineer-BD34FE?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=50"/>
@@ -67,19 +73,24 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KalpeshBire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=1" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://streak-stats.demolab.com?user=KalpeshBire&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshBire&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KalpeshBire&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Activity Graph" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=KalpeshBire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=1" />
+      </td>
+      <td align="center" valign="middle">
+        <img height="180" src="https://streak-stats.demolab.com?user=KalpeshBire&theme=tokyonight&hide_border=true&v=1" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2" valign="middle">
+        <br/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshBire&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
