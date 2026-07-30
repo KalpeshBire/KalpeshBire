@@ -77,16 +77,16 @@
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=KalpeshBire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&v=1" />
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalpeshBire&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="https://streak-stats.demolab.com?user=KalpeshBire&theme=tokyonight&hide_border=true&v=1" />
+        <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=KalpeshBire&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2" valign="middle">
         <br/>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshBire&layout=compact&theme=tokyonight&hide_border=true&count_private=true&v=1" />
+        <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KalpeshBire&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
       </td>
     </tr>
   </table>
