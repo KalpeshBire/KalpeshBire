@@ -1,11 +1,11 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:1f6feb&height=200&section=header&text=Kalpesh%20Bire&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%26%20PWA&descSize=18&descAlignY=56&animation=fadeIn" alt="Kalpesh Bire" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:1f6feb&height=200&section=header&text=Kalpesh%20Bire&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20and%20PWA&descSize=18&descAlignY=56&animation=fadeIn" alt="Kalpesh Bire" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://kalpesh-bire.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+MERN+%26+PWA+products;Smart+India+Hackathon+2025+Finalist;MVP+first.+Production+ready.+Always+shipping.;Exploring+backend+architecture%2C+cloud+%26+DevOps" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+scalable+MERN+and+PWA+products;Smart+India+Hackathon+2025+Finalist;MVP+first.+Production+ready.+Always+shipping.;Exploring+backend+architecture%2C+cloud+and+DevOps" alt="Typing intro"/>
   </a>
 </p>
 
